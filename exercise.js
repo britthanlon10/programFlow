@@ -1,12 +1,14 @@
 // exercise 1: Print “Number is even” if the number is divisible by 2. Else print “Number is odd” if the number returns a remainder when divided by 2.
 
 
+
 // exercise 2: How many times will it print “I love JavaScript “.
 
-const n = 5;
+const n = 5; // n will always be 5
 for (let i = 1; i <= n; i++) {
     console.log(`I love JavaScript.`);
 }
+                // answer = 5
 
 // exercise 3: change this to a for loop.
 
