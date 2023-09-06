@@ -1,15 +1,14 @@
 /* exercise 1: Print “Number is even” if the number is divisible by 2. 
 Else print “Number is odd” if the number returns a remainder when divided by 2. */
 
-if(number % 2 === 0) {
-    console.log("The number is even.");
+if(number % 2 == 0) {
+    console.log("The {number} is even.");
 }
 
 // if the number is odd
 else {
-    console.log("The number is odd.");
+    console.log("The {number} is odd.");
 }
-
 
 // exercise 2: How many times will it print “I love JavaScript “.
 
